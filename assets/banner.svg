@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Krish Patel</title>
+  <desc id="desc">Building software. Exploring systems. A charcoal banner with subtle geometric lines and muted teal accents.</desc>
+  <rect width="1280" height="320" rx="16" fill="#0d1117"/>
+  <g fill="none" stroke="#27343e" stroke-width="1.5">
+    <path d="M830 -70 1130 100 1130 440 830 270Z"/>
+    <path d="M930 -130 1230 40 1230 380 930 210Z"/>
+    <path d="M730 -10 1030 160 1030 500 730 330Z"/>
+    <path d="m730 -10 400 110m-400 230 400-230m-300 170 400-230"/>
+  </g>
+  <path d="m1030 160 100-60 100 60-100 60Z" fill="#162c2d" stroke="#41655f" stroke-width="1.5"/>
+  <path d="M1130 220v120" stroke="#41655f" stroke-width="1.5"/>
+  <circle cx="1030" cy="160" r="4" fill="#7cb7ae"/>
+  <rect x="64" y="70" width="32" height="3" fill="#7cb7ae"/>
+  <text x="64" y="145" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="600" letter-spacing="-2">Krish Patel</text>
+  <text x="67" y="194" fill="#9da7b3" font-family="Arial, Helvetica, sans-serif" font-size="23">Building software. Exploring systems.</text>
+  <text x="67" y="260" fill="#7cb7ae" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">SOFTWARE ENGINEERING · SJSU</text>
+</svg>
